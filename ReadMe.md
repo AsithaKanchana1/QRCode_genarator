@@ -28,8 +28,8 @@ Follow these steps to set up the environment:
 1. Clone this repository:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/AsithaKanchana1/QRCode_genarator.git
+cd QRCode_genarator
 
 ```
 
@@ -57,7 +57,6 @@ python qr_main.py
 Enter The Text or URL to be converted into QR code: https://github.com
 Enter the name of the output file (without extension): github_qr
 QR code generated and saved as github_qr.png
-
 
 ---
 
